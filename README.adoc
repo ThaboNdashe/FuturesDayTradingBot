@@ -4,5 +4,7 @@ Thabo Ndashe <thabo.ndashe@gmail.com>
 
 == Introduction
 
-A day trading automated trading system that implements a proprietary strategy with push notifications, using OANDA Broker API with python deployed to an AWS Virtual Server
+A day-trading automated trading system that implements a
+proprietary strategy with push notifications,
+using OANDA Broker API with python deployed to an AWS Virtual Server
 
